@@ -2,13 +2,13 @@
 
 Este projeto é uma aplicação em **TypeScript** focada em testes unitários automatizados utilizando a biblioteca **Jest**.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Node.js**
 - **TypeScript**
 - **Jest** (`ts-jest`)
 
-## 📋 Regras de Negócio Implementadas
+## Regras de Negócio Implementadas
 
 - **RN01 — Cliente:** Validação de nome obrigatório e com no mínimo 3 caracteres.
 - **RN02 — Pedido:** Requisito de ter pelo menos 1 produto no pedido para cálculo.
@@ -18,7 +18,7 @@ Este projeto é uma aplicação em **TypeScript** focada em testes unitários au
 - **RN06 — Cancelamento:** Pedidos com status `ENTREGUE` não podem ser cancelados.
 - **RN07 — Pedido Pronto:** O status só transiciona para `ENTREGUE` se o pedido estiver `PRONTO`.
 
-## 🛠️ Como Executar os Testes
+## Como Executar os Testes
 
 1. Instale as dependências:
    ```bash

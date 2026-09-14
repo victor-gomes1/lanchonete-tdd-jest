@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1789346693447" clover="3.2.0">
+  <project timestamp="1789346693448" name="All files">
+    <metrics statements="38" coveredstatements="38" conditionals="25" coveredconditionals="25" methods="12" coveredmethods="12" elements="75" coveredelements="75" complexity="0" loc="38" ncloc="38" packages="1" files="3" classes="3"/>
+    <file name="cliente.ts" path="C:\Users\Victoria Ayanna\OneDrive\Área de Trabalho\Cenario de teste\src\cliente.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="5" count="13" type="stmt"/>
+      <line num="6" count="10" type="stmt"/>
+      <line num="10" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="desconto.ts" path="C:\Users\Victoria Ayanna\OneDrive\Área de Trabalho\Cenario de teste\src\desconto.ts">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="3" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+    </file>
+    <file name="pedido.ts" path="C:\Users\Victoria Ayanna\OneDrive\Área de Trabalho\Cenario de teste\src\pedido.ts">
+      <metrics statements="24" coveredstatements="24" conditionals="15" coveredconditionals="15" methods="8" coveredmethods="8"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="9" type="stmt"/>
+      <line num="15" count="9" type="stmt"/>
+      <line num="18" count="9" type="stmt"/>
+      <line num="22" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="33" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="37" count="8" type="stmt"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="52" count="3" type="stmt"/>
+      <line num="56" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="60" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="64" count="8" type="stmt"/>
+    </file>
+  </project>
+</coverage>
